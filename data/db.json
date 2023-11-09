@@ -166,6 +166,14 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "tucuar",
+      "superhero": "SuperCan",
+      "publisher": "DC Comics",
+      "alter_ego": "Stuart Gonzalez",
+      "first_appearance": "Bucara",
+      "characters": "Stuart Jose"
     }
   ]
 }
