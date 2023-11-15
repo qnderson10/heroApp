@@ -8,28 +8,13 @@
   ],
   "heroes": [
     {
-      "id": "dc-batman",
-      "superhero": "Batman",
-      "publisher": "DC Comics",
-      "alter_ego": "Bruce Wayne",
-      "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne"
-    },
-    {
-      "id": "dc-superman",
-      "superhero": "Superman",
-      "publisher": "DC Comics",
-      "alter_ego": "Kal-El",
-      "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
-    },
-    {
       "id": "dc-flash",
-      "superhero": "Flash",
+      "superhero": "Flashhhhhh",
       "publisher": "DC Comics",
       "alter_ego": "Jay Garrick",
       "first_appearance": "Flash Comics #1",
-      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen"
+      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen",
+      "alt_img": "https://upload.wikimedia.org/wikipedia/en/b/b7/Flash_%28Barry_Allen%29.png"
     },
     {
       "id": "dc-green",
@@ -93,7 +78,8 @@
       "publisher": "Marvel Comics",
       "alter_ego": "Peter Parker",
       "first_appearance": "Amazing Fantasy #15",
-      "characters": "Peter Parker"
+      "characters": "Peter Parker",
+      "alt_img": "https://insomniac.games/wp-content/uploads/2018/09/Spider-Man_PS4_E3_2017_Hero.jpg"
     },
     {
       "id": "marvel-captain",
@@ -174,6 +160,15 @@
       "alter_ego": "Stuart Gonzalez",
       "first_appearance": "Bucara",
       "characters": "Stuart Jose"
+    },
+    {
+      "id": "zWCgrRK",
+      "superhero": "Tucua",
+      "publisher": "DC Comics",
+      "alter_ego": "Stuart",
+      "first_appearance": "Rialto#1",
+      "characters": "Stuart Gonzalez",
+      "alt_img": "https://i.ytimg.com/vi/kgHkEuzGdlE/sddefault.jpg"
     }
   ]
 }
