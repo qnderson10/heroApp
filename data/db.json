@@ -2,19 +2,42 @@
   "users": [
     {
       "id": 1,
-      "usuario": "John Doe",
+      "user": "John Doe",
       "email": "john.due@gmail.com"
+    },
+    {
+      "id": "tucuar",
+      "superhero": "SuperCan",
+      "publisher": "DC Comics",
+      "alter_ego": "Stuart Gonzalez",
+      "first_appearance": "Bucara",
+      "characters": "Stuart Jose"
     }
   ],
   "heroes": [
     {
+      "id": "dc-batman",
+      "superhero": "Batman",
+      "publisher": "DC Comics",
+      "alter_ego": "Bruce Wayne",
+      "first_appearance": "Detective Comics #27",
+      "characters": "Bruce Wayne"
+    },
+    {
+      "id": "dc-superman",
+      "superhero": "Superman",
+      "publisher": "DC Comics",
+      "alter_ego": "Kal-El",
+      "first_appearance": "Action Comics #1",
+      "characters": "Kal-El"
+    },
+    {
       "id": "dc-flash",
-      "superhero": "Flashhhhhh",
+      "superhero": "Flash",
       "publisher": "DC Comics",
       "alter_ego": "Jay Garrick",
       "first_appearance": "Flash Comics #1",
-      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen",
-      "alt_img": "https://upload.wikimedia.org/wikipedia/en/b/b7/Flash_%28Barry_Allen%29.png"
+      "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen"
     },
     {
       "id": "dc-green",
@@ -78,8 +101,7 @@
       "publisher": "Marvel Comics",
       "alter_ego": "Peter Parker",
       "first_appearance": "Amazing Fantasy #15",
-      "characters": "Peter Parker",
-      "alt_img": "https://insomniac.games/wp-content/uploads/2018/09/Spider-Man_PS4_E3_2017_Hero.jpg"
+      "characters": "Peter Parker"
     },
     {
       "id": "marvel-captain",
@@ -152,23 +174,6 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
-    },
-    {
-      "id": "tucuar",
-      "superhero": "SuperCan",
-      "publisher": "DC Comics",
-      "alter_ego": "Stuart Gonzalez",
-      "first_appearance": "Bucara",
-      "characters": "Stuart Jose"
-    },
-    {
-      "id": "zWCgrRK",
-      "superhero": "Tucua",
-      "publisher": "DC Comics",
-      "alter_ego": "Stuart",
-      "first_appearance": "Rialto#1",
-      "characters": "Stuart Gonzalez",
-      "alt_img": "https://i.ytimg.com/vi/kgHkEuzGdlE/sddefault.jpg"
     }
   ]
 }
